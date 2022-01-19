@@ -1,0 +1,10 @@
+****
+****
+
+
+Format&2x5 FormatMicro&1x1
+RealIntervalw&26 RealIntervalh&0 RealIntervalwHuge&0 RealIntervalhHuge&0
+RealChipHeight&293 RealChipWidth&190
+ChipName&CustomerDefine5
+
+******
